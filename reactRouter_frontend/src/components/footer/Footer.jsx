@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-white border-y">
       <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
-        <div className="md:flex md:justify-between">
+        <div className="md:flex md:justify-center">
           <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
             <div>
               <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">
@@ -67,9 +67,12 @@ export default function Footer() {
         <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
         <div className="sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-gray-500 sm:text-center">
-            © 2023
-            <a href="https://hiteshchoudhary.com/" className="hover:underline">
-              hiteshchoudhary
+            © 2025&nbsp;
+            <a
+              href="https://github.com/Archishmaan74"
+              className="hover:underline"
+            >
+              Archishmaan74
             </a>
             . All Rights Reserved.
           </span>
