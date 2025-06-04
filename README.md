@@ -2,7 +2,7 @@
 A fast and modern frontend web app built with Vite + React.js, using React Router for seamless navigation and Tailwind CSS for responsive styling. The app fetches dynamic data from external APIs to display real-time information across routed pages.
 
 ### Hosted URL:
-https://08-react-router-react.vercel.app/github 
+[https://08-react-router-react.vercel.app/github](https://08-react-router-react.vercel.app/) 
 
 ### Screenshots:
 ![Screenshot 2025-06-03 185416](https://github.com/user-attachments/assets/93c3d29c-9a5c-4e8a-8503-370b38b28136)
